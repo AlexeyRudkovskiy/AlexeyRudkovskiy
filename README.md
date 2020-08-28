@@ -18,9 +18,9 @@
 
 #### Latest Projects
 
-| Project Name|Website|Repository|Stack|
-|----------|-----------|----------|------|
-|Favorra|[favorra.com](http://favorra.com)|[GitLab](https://gitlab.com/AlexeyRudkovskiy/favorra-website)|- Laravel, React, MySQL, Material UI <br> - Amazon AWS ➡ Google Cloud, <br> - Redis, React Native, OneSignal|
+| Project Name|Description|Stack|
+|----------|-----------|------|
+|[Favorra](https://gitlab.com/AlexeyRudkovskiy/favorra-website)|test|- Laravel, React, MySQL, Material UI <br> - Amazon AWS ➡ Google Cloud, <br> - Redis, React Native, OneSignal|
 
 <!-- 
 - 😄 Pronouns: ...
