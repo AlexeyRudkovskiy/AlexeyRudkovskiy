@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<!-- ### Hi there 👋 -->
 #### General information
 
 🔭 I’m currently working on another admin panel for Laravel projects.
