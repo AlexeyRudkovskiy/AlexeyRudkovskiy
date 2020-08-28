@@ -1,14 +1,26 @@
 ### Hi there 👋
 
+#### General information
+
+🔭 I’m currently working on another admin panel for Laravel projects.
+
+📍 Currently in Zaporizhia, Ukraine
+
+🏢 Freelancer
+
+💻 Programming since 2009. Languages: PHP, JavaScript, Java, Kotlin, C#, Ruby, Python. Databases: MySQL, MongoDB
+
 #### Achievements:
 
 📄 Bachelor's diploma in Computer engineering
 
 📄 Master's diploma in Computer engineering
 
-#### General information
+#### Latest Projects
 
-- 🔭 I’m currently working on another admin panel for Laravel projects.
+| Project Name|Website|Repository|Stack|
+|----------|-----------|----------|------|
+|Favorra|[favorra.com](http://favorra.com)|[GitLab](https://gitlab.com/AlexeyRudkovskiy/favorra-website)|- Laravel, React, MySQL, Material UI <br> - Amazon AWS ➡ Google Cloud, <br> - Redis, React Native, OneSignal|
 
 <!-- 
 - 😄 Pronouns: ...
