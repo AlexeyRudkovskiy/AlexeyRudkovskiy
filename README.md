@@ -5,8 +5,6 @@
 
 📍 Currently in Zaporizhia, Ukraine
 
-🏢 Freelancer
-
 💻 Programming since 2009. Languages: PHP, JavaScript, Java, Kotlin, C#, Ruby, Python. Databases: MySQL, MongoDB
 
 #### Achievements:
@@ -17,10 +15,10 @@
 
 #### Latest Projects
 
-| Project Name|Description|Stack|
-|----------|-----------|------|
-|[Formy](https://github.com/AlexeyRudkovskiy/Formy)|Laravel form builder inspired by Symfony forms|PHP, PHPUnit, Github Actions|
-|[Favorra](https://gitlab.com/AlexeyRudkovskiy/favorra-website)|Online platform for selling products. User can create his own<br>shop and start selling something. Project includes website,<br>seller/administrator dashboard and mobile apps for iOS and Android|- Laravel, React, MySQL, Material UI <br> - Amazon AWS ➡ Google Cloud, <br> - Redis, React Native, OneSignal|
+| Project Name|Description|Stack|Comments|
+|----------|-----------|------|-----|
+|[Formy](https://github.com/AlexeyRudkovskiy/Formy)|Laravel form builder inspired by Symfony forms|PHP, PHPUnit, Github Actions|Part of one more admin panel for Laravel|
+|[Favorra](https://gitlab.com/AlexeyRudkovskiy/favorra-website)|Online platform for selling products. User can create his own shop and start selling something. Project includes website, seller/administrator dashboard and mobile apps for iOS and Android|- Laravel, React, MySQL, Material UI <br> - Amazon AWS ➡ Google Cloud,<br> - Redis, React Native, OneSignal|
 
 <!-- 
 - 😄 Pronouns: ...
