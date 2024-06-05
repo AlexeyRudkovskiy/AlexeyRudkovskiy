@@ -5,13 +5,15 @@
 
 📍 Currently in Zaporizhia, Ukraine
 
-💻 Programming since 2009. Languages: PHP, JavaScript, Java, Kotlin, C#, Ruby, Python. Databases: MySQL, MongoDB
+💻 Programming since 2009. Languages: PHP, JavaScript, C++, Java, Kotlin, C#, Ruby, Python. Databases: MySQL, MongoDB
 
 #### Achievements:
 
 📄 Bachelor's diploma in Computer engineering
 
 📄 Master's diploma in Computer engineering
+
+📄 Master's diploma in Software Engineering
 
 #### Latest Projects
 
